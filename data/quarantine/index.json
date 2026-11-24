@@ -1,0 +1,15 @@
+{
+  "28d998d1-62c1-4fee-9028-5968be3f7714": {
+    "quarantine_id": "28d998d1-62c1-4fee-9028-5968be3f7714",
+    "original_path": "C:\\Users\\pawan\\AppData\\Local\\Temp\\tmp9s135azm\\definitely_not_a_virus.exe",
+    "quarantined_path": "data\\quarantine\\28d998d1-62c1-4fee-9028-5968be3f7714.quarantined",
+    "sha256": "deadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeefdeadbeef",
+    "risk_score": 95,
+    "severity": "CRITICAL",
+    "reasons": [
+      "Simulated detection for smoke test"
+    ],
+    "quarantined_at": "2026-09-26T14:39:35.456904+00:00",
+    "restored": true
+  }
+}
